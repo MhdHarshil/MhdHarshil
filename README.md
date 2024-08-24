@@ -53,8 +53,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MhdHarshil/MhdHarshil/output/snake.svg" alt="Snake animation" />
 
 ###
