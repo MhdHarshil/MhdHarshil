@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Mohamed Harshil and I'm a CS Student, from Bengaluru, India</h1>
+<h1 align="left">Hi Nerds👋!</h1>
 
 ###
 
