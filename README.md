@@ -1,6 +1,3 @@
-# 👋 Hey, I'm Harshil
----
-
 <div align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=MhdHarshil&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
